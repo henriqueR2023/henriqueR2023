@@ -51,7 +51,7 @@
 <a href="https://linkedin.com/in/henrique-ronald"><img height="30"src="https://img.shields.io/badge/henrique%20Ronald-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:henry47027@hotmail.com"><img height="30"src="https://img.shields.io/badge/Hotmail-61DBFB?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 <a href="https://wa.me/5594991913229"><img height="30"src="https://img.shields.io/badge/-whatsapp-a4c639?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://wa.me/5594991913229"><img height="30"src="https://img.shields.io/badge/-Gmail-e9e9e9?style=for-the-badge&logo=gmail&logoColor=db4a39"/></a>
+<a href="mailto:henriqueronald2023@gmail.com"><img height="30"src="https://img.shields.io/badge/-Gmail-e9e9e9?style=for-the-badge&logo=gmail&logoColor=db4a39"/></a>
 </p>
 
 <br/>
